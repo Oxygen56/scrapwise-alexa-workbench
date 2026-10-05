@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/Jack000/SVGnest/master/index.html",
+    "artifact": "intelligence/research/cutting-output-20261003/root-sources/index.html",
+    "sha256": "0d1c1f4adfd4845a7b76bebcd44684e9a8f97f7163c32f20f06507c543f7e48d",
+    "bytes": 45032,
+    "retrievedAt": "2026-10-03T06:43:44.514525+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Jack000/SVGnest/master/LICENSE.txt",
+    "artifact": "intelligence/research/cutting-output-20261003/root-sources/LICENSE.txt",
+    "sha256": "63249e67e62c3c4142252688c170ab27fa401f55a96f12b54cd6187ba2f699af",
+    "bytes": 1075,
+    "retrievedAt": "2026-10-03T06:43:45.649433+00:00"
+  },
+  {
+    "source": "Author shipped embedded SVG demo, extracted byte-for-byte from saved index SVG element",
+    "artifact": "data/cutting-author-demo.svg",
+    "sha256": "0d67c64c91765eccf197761737b610a5fb5bccbf4976930b94540a540f3a636c",
+    "bytes": 23912,
+    "bounds": "Not a verified customer or workshop job; native author demonstration includes guide text and arrow contours; no physical cut performed"
+  }
+]

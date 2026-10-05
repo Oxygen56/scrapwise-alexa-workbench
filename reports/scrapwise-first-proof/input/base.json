@@ -1,0 +1,5175 @@
+{
+  "schema": "scrapwise.disclosed-test-job.v1",
+  "units": "original SVG coordinate units; no claimed millimetre or physical production size",
+  "originalSource": "data/cutting-author-demo.svg",
+  "originalSourceSha256": "0d67c64c91765eccf197761737b610a5fb5bccbf4976930b94540a540f3a636c",
+  "selection": "All 142 straight-edged sample pieces before the source container rectangle; source guidance paths/arrow excluded by role, before any packing result",
+  "stockDisclosure": "Explicit test inventory: the original rectangular container divided into four equal quarter sheets, each available once. Purchase option is the original full sheet, up to two. Not a user or customer inventory.",
+  "parts": [
+    {
+      "id": "source-000",
+      "sourceIndex": 0,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.557,
+          11.083
+        ],
+        [
+          21.908,
+          14.564
+        ],
+        [
+          0.0,
+          18.284
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 206.729828,
+      "sourceElementSha256": "852579affefe4292d543640270ae8aed087aa060be7f2fb925cd70c39ce27362"
+    },
+    {
+      "id": "source-001",
+      "sourceIndex": 1,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.7
+        ],
+        [
+          12.652,
+          11.004
+        ],
+        [
+          13.226,
+          1.166
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 133.081536,
+      "sourceElementSha256": "c533912c541a74809628d361c9776617dc0fb202f372d556bdf5143b97b2dff5"
+    },
+    {
+      "id": "source-002",
+      "sourceIndex": 2,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.189,
+          14.807
+        ],
+        [
+          5.643,
+          16.384
+        ],
+        [
+          0.0,
+          9.771
+        ],
+        [
+          2.908,
+          1.581
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.091,
+          6.613
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.248186,
+      "sourceElementSha256": "3be1e4b322d44dc155d2bf5b82e269ef75c0c60a5d80536c87cb12f13baa5810"
+    },
+    {
+      "id": "source-003",
+      "sourceIndex": 3,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.557,
+          11.089
+        ],
+        [
+          19.007,
+          17.769
+        ],
+        [
+          0.0,
+          18.286
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 224.381856,
+      "sourceElementSha256": "1e518e8583ccc8ff4428c015801e5698157d0323467aef68e84034788ec566a7"
+    },
+    {
+      "id": "source-004",
+      "sourceIndex": 4,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.697
+        ],
+        [
+          13.226,
+          10.442
+        ],
+        [
+          13.226,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 132.074836,
+      "sourceElementSha256": "a5c0d75469499fdca9324ed0f6467b3966591dc5cf4a8652b6ebafaa02b73496"
+    },
+    {
+      "id": "source-005",
+      "sourceIndex": 5,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.187,
+          14.803
+        ],
+        [
+          5.641,
+          16.38
+        ],
+        [
+          0.0,
+          9.767
+        ],
+        [
+          2.905,
+          1.577
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.088,
+          6.612
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.203427,
+      "sourceElementSha256": "cac61088e9cd4183903be21eb238b3fd3dc0ae364a16dbbeeaee010e5ed784e8"
+    },
+    {
+      "id": "source-006",
+      "sourceIndex": 6,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          30.079,
+          0.0
+        ],
+        [
+          0.0,
+          29.372
+        ],
+        [
+          13.485,
+          53.231
+        ],
+        [
+          35.915,
+          60.148
+        ],
+        [
+          42.012,
+          50.12
+        ],
+        [
+          67.686,
+          51.934
+        ],
+        [
+          71.834,
+          10.697
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2939.545291,
+      "sourceElementSha256": "777ce90508a26bdd69abec29e6ddf1c5d9bc32d4edbba9051eaef72e6ec4fe5f"
+    },
+    {
+      "id": "source-007",
+      "sourceIndex": 7,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          2.334,
+          0.0
+        ],
+        [
+          0.0,
+          27.123
+        ],
+        [
+          17.377,
+          29.199
+        ],
+        [
+          30.602,
+          23.482
+        ],
+        [
+          28.007,
+          6.636
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 681.7931495,
+      "sourceElementSha256": "650e71fcae2437558eb9799d923a5647b413cc3ee11183620c6735e135e609d3"
+    },
+    {
+      "id": "source-008",
+      "sourceIndex": 8,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          36.512,
+          30.341
+        ],
+        [
+          81.246,
+          30.341
+        ],
+        [
+          81.246,
+          53.292
+        ],
+        [
+          0.0,
+          53.292
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2418.582242,
+      "sourceElementSha256": "8f286d8c6f63ca5f2aff1310048c4cf81bff42855c1f72755ba3fd71bf29e6f8"
+    },
+    {
+      "id": "source-009",
+      "sourceIndex": 9,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          28.415
+        ],
+        [
+          16.406,
+          0.0
+        ],
+        [
+          32.813,
+          28.415
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 466.1906975,
+      "sourceElementSha256": "3a25a7ce9778290c952fe94890e78a3c275002a07cbf8688dcd5bdcc375af07f"
+    },
+    {
+      "id": "source-010",
+      "sourceIndex": 10,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          7.078,
+          24.869
+        ],
+        [
+          0.0,
+          15.992
+        ],
+        [
+          2.528,
+          4.927
+        ],
+        [
+          12.754,
+          0.0
+        ],
+        [
+          22.977,
+          4.927
+        ],
+        [
+          25.506,
+          15.992
+        ],
+        [
+          18.425,
+          24.869
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 468.1941895,
+      "sourceElementSha256": "791c849e1b215d0dfbf317e536b443ac154cdeb8355bcbb45b9400682a0e4ca4"
+    },
+    {
+      "id": "source-011",
+      "sourceIndex": 11,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.559,
+          11.09
+        ],
+        [
+          21.909,
+          14.569
+        ],
+        [
+          0.0,
+          18.283
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 206.704254,
+      "sourceElementSha256": "ae9f546e8c3b580e3fd5cc0e49c73146e1331e192af8833f57d12260b316e4b0"
+    },
+    {
+      "id": "source-012",
+      "sourceIndex": 12,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.694
+        ],
+        [
+          12.655,
+          11.004
+        ],
+        [
+          13.226,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 133.0515445,
+      "sourceElementSha256": "828c5b8ed15bf0e109321c0251c04439c49dd4f9d4066d4b5d2ab58517bcfee0"
+    },
+    {
+      "id": "source-013",
+      "sourceIndex": 13,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          21.957,
+          63.31
+        ],
+        [
+          64.0,
+          63.814
+        ],
+        [
+          71.334,
+          37.407
+        ],
+        [
+          60.364,
+          16.654
+        ],
+        [
+          48.961,
+          19.438
+        ],
+        [
+          32.091,
+          0.0
+        ],
+        [
+          0.0,
+          26.224
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2939.423747,
+      "sourceElementSha256": "556f6809b208e772028509082119bf24dc6a4e4916766551ca85a40ac87c02a4"
+    },
+    {
+      "id": "source-014",
+      "sourceIndex": 14,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          7.076,
+          24.869
+        ],
+        [
+          0.0,
+          15.992
+        ],
+        [
+          2.526,
+          4.926
+        ],
+        [
+          12.752,
+          0.0
+        ],
+        [
+          22.979,
+          4.926
+        ],
+        [
+          25.504,
+          15.992
+        ],
+        [
+          18.426,
+          24.869
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 468.232299,
+      "sourceElementSha256": "7525a15202cf3fcaba27af585322be6397868759551333b04a3a854fae5517c2"
+    },
+    {
+      "id": "source-015",
+      "sourceIndex": 15,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.556,
+          11.084
+        ],
+        [
+          21.908,
+          14.563
+        ],
+        [
+          0.0,
+          18.283
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 206.69186,
+      "sourceElementSha256": "aff448b46ba3de8d71ec308dcb8a5bdeeb5d3242073815776263c255cac664f2"
+    },
+    {
+      "id": "source-016",
+      "sourceIndex": 16,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.7
+        ],
+        [
+          12.653,
+          11.004
+        ],
+        [
+          13.227,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 133.0854785,
+      "sourceElementSha256": "bb58492f092a17d5eeba146810813655a6e94575c7c9c2ac1b4a5d790a3438a4"
+    },
+    {
+      "id": "source-017",
+      "sourceIndex": 17,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.188,
+          14.806
+        ],
+        [
+          5.643,
+          16.383
+        ],
+        [
+          0.0,
+          9.77
+        ],
+        [
+          2.908,
+          1.58
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.091,
+          6.613
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.2348405,
+      "sourceElementSha256": "c594e85b9e182ed8e9557115eba095edd9ffb5d5b65eb5545bd34b01f960c9d2"
+    },
+    {
+      "id": "source-018",
+      "sourceIndex": 18,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.697
+        ],
+        [
+          13.226,
+          10.442
+        ],
+        [
+          13.226,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 132.074836,
+      "sourceElementSha256": "79ea2fa7472bc1048eae29babce1786d4fbd6c616758173931878c47e6265980"
+    },
+    {
+      "id": "source-019",
+      "sourceIndex": 19,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          7.078,
+          24.869
+        ],
+        [
+          0.0,
+          15.992
+        ],
+        [
+          2.529,
+          4.926
+        ],
+        [
+          12.755,
+          0.0
+        ],
+        [
+          22.978,
+          4.926
+        ],
+        [
+          25.507,
+          15.992
+        ],
+        [
+          18.426,
+          24.869
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 468.2213525,
+      "sourceElementSha256": "004b227097901707cdbbc70ced3df772e3c32c7170dc1718716793cc5a19229e"
+    },
+    {
+      "id": "source-020",
+      "sourceIndex": 20,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          9.084,
+          0.0
+        ],
+        [
+          0.0,
+          46.02
+        ],
+        [
+          66.473,
+          52.701
+        ],
+        [
+          82.468,
+          23.872
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2808.59882,
+      "sourceElementSha256": "c01b1eff042942582c6dfd339eeb33872a41c66353cd16b3c9f7da39eb649122"
+    },
+    {
+      "id": "source-021",
+      "sourceIndex": 21,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.186,
+          14.8
+        ],
+        [
+          5.64,
+          16.381
+        ],
+        [
+          0.0,
+          9.767
+        ],
+        [
+          2.905,
+          1.574
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.091,
+          6.613
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.228991,
+      "sourceElementSha256": "3ab7d481e69acb3e9b144f72a1e69bcdcf641e55f269baf19c7a02ffd05dd650"
+    },
+    {
+      "id": "source-022",
+      "sourceIndex": 22,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          30.913,
+          0.0
+        ],
+        [
+          30.913,
+          18.155
+        ],
+        [
+          0.0,
+          18.155
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 561.225515,
+      "sourceElementSha256": "fc318503ede99a20dbba90373c357f99876af25e9a08ed767012854b9f6c07a6"
+    },
+    {
+      "id": "source-023",
+      "sourceIndex": 23,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          29.563,
+          0.0
+        ],
+        [
+          29.563,
+          5.188
+        ],
+        [
+          0.0,
+          5.188
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 153.372844,
+      "sourceElementSha256": "47f1bc7e6948d4dd2feaf6b0a4ea261a82c3d571755328e6a1f461d5ca62dc9a"
+    },
+    {
+      "id": "source-024",
+      "sourceIndex": 24,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          25.963,
+          0.0
+        ],
+        [
+          25.963,
+          17.637
+        ],
+        [
+          0.0,
+          17.637
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 457.909431,
+      "sourceElementSha256": "26b77c233e63e66a1d597c9e65ca4824b8b9e9ed228e477ed78eb254131e7801"
+    },
+    {
+      "id": "source-025",
+      "sourceIndex": 25,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          17.01,
+          0.0
+        ],
+        [
+          17.01,
+          40.393
+        ],
+        [
+          0.0,
+          40.393
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 687.08493,
+      "sourceElementSha256": "9a6625b38c365ad821e8a06c55328bc7b8e9277ef70508cb7f5a456d3b8a9fc1"
+    },
+    {
+      "id": "source-026",
+      "sourceIndex": 26,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          17.004,
+          0.0
+        ],
+        [
+          17.004,
+          17.633
+        ],
+        [
+          0.0,
+          17.633
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 299.831532,
+      "sourceElementSha256": "25e881997c4881846f77675b6ce955c6529ef6335c1eae17efb1444b2dab613c"
+    },
+    {
+      "id": "source-027",
+      "sourceIndex": 27,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          47.904,
+          0.0
+        ],
+        [
+          47.904,
+          25.868
+        ],
+        [
+          0.0,
+          25.868
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 1239.180672,
+      "sourceElementSha256": "b9fac2ae82c22e065d982ec04e6210d7215f15912d23579fb3e6ce8a241389b0"
+    },
+    {
+      "id": "source-028",
+      "sourceIndex": 28,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          19.708,
+          2.076
+        ],
+        [
+          0.0,
+          34.235
+        ],
+        [
+          54.838,
+          37.347
+        ],
+        [
+          93.528,
+          19.711
+        ],
+        [
+          43.049,
+          22.823
+        ],
+        [
+          40.21,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 1581.4700565,
+      "sourceElementSha256": "73e811a1f035fbaccdaede6d679c1c916fb8e3fc33d9609bef0d4a6d381a003d"
+    },
+    {
+      "id": "source-029",
+      "sourceIndex": 29,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          22.304
+        ],
+        [
+          27.615,
+          50.313
+        ],
+        [
+          152.571,
+          43.571
+        ],
+        [
+          74.66,
+          18.672
+        ],
+        [
+          31.566,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 3689.286977,
+      "sourceElementSha256": "b364b40dd01ceefdf3d1d700d250ae8aea489be71fc5430341d78b1c6c85a7ba"
+    },
+    {
+      "id": "source-030",
+      "sourceIndex": 30,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.557,
+          11.083
+        ],
+        [
+          21.908,
+          14.564
+        ],
+        [
+          0.0,
+          18.284
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 206.729828,
+      "sourceElementSha256": "7e5db90165a0903a4fadf03a771e8015083838577fb752e074086e8ed1422914"
+    },
+    {
+      "id": "source-031",
+      "sourceIndex": 31,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.701
+        ],
+        [
+          12.652,
+          11.005
+        ],
+        [
+          13.226,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 133.088149,
+      "sourceElementSha256": "b302e8baabec58404489873f100c187ea4a46e8097904a05804f76ddac19e3b7"
+    },
+    {
+      "id": "source-032",
+      "sourceIndex": 32,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.189,
+          14.807
+        ],
+        [
+          5.643,
+          16.384
+        ],
+        [
+          0.0,
+          9.771
+        ],
+        [
+          2.908,
+          1.581
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.092,
+          6.613
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.2555895,
+      "sourceElementSha256": "a05768ed6c4278073f973a6e4abdba674306b00ec7bfe2c9d65a9112667b518c"
+    },
+    {
+      "id": "source-033",
+      "sourceIndex": 33,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.557,
+          11.089
+        ],
+        [
+          19.007,
+          17.769
+        ],
+        [
+          0.0,
+          18.285
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 224.3723525,
+      "sourceElementSha256": "eb77a3743e5ce26f18ef8c2ab0cc72300186ca7e930d38d4fc1c6be7c3be18d0"
+    },
+    {
+      "id": "source-034",
+      "sourceIndex": 34,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.698
+        ],
+        [
+          13.226,
+          10.443
+        ],
+        [
+          13.226,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 132.088062,
+      "sourceElementSha256": "d07c8e1eb19c008ccf448486497c8f8b3a2b4f77ba2c03265893d52977ddfd4c"
+    },
+    {
+      "id": "source-035",
+      "sourceIndex": 35,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.187,
+          14.803
+        ],
+        [
+          5.641,
+          16.38
+        ],
+        [
+          0.0,
+          9.767
+        ],
+        [
+          2.905,
+          1.577
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.088,
+          6.612
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.203427,
+      "sourceElementSha256": "7d692dbd23f203e85179ae561e5517699d151c4885fb4a0395f126974067cc0d"
+    },
+    {
+      "id": "source-036",
+      "sourceIndex": 36,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          30.08,
+          0.0
+        ],
+        [
+          0.0,
+          29.372
+        ],
+        [
+          13.485,
+          53.231
+        ],
+        [
+          35.915,
+          60.148
+        ],
+        [
+          42.012,
+          50.12
+        ],
+        [
+          67.686,
+          51.934
+        ],
+        [
+          71.834,
+          10.697
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2939.5359535,
+      "sourceElementSha256": "8f92fbf16d256d709e8397b1bc0be2946234e992eb4666e2ad1254d578923fe5"
+    },
+    {
+      "id": "source-037",
+      "sourceIndex": 37,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          2.334,
+          0.0
+        ],
+        [
+          0.0,
+          27.123
+        ],
+        [
+          17.377,
+          29.199
+        ],
+        [
+          30.602,
+          23.482
+        ],
+        [
+          28.007,
+          6.636
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 681.7931495,
+      "sourceElementSha256": "4367cd59885e4987a6e60de575f784d095be988f5843616c36275891bcf99c97"
+    },
+    {
+      "id": "source-038",
+      "sourceIndex": 38,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          36.512,
+          30.341
+        ],
+        [
+          81.245,
+          30.341
+        ],
+        [
+          81.245,
+          53.292
+        ],
+        [
+          0.0,
+          53.292
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2418.559291,
+      "sourceElementSha256": "d079ba603cc71c68b088efaa209f5ca0897f2b7d62410dce6739fe09e09a1537"
+    },
+    {
+      "id": "source-039",
+      "sourceIndex": 39,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          28.415
+        ],
+        [
+          16.405,
+          0.0
+        ],
+        [
+          32.813,
+          28.415
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 466.1906975,
+      "sourceElementSha256": "f734157b7b3b665380d211a096c85015c5f4fc2d245d501a9666e7cc1c270fdc"
+    },
+    {
+      "id": "source-040",
+      "sourceIndex": 40,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          7.078,
+          24.869
+        ],
+        [
+          0.0,
+          15.992
+        ],
+        [
+          2.529,
+          4.927
+        ],
+        [
+          12.755,
+          0.0
+        ],
+        [
+          22.978,
+          4.927
+        ],
+        [
+          25.507,
+          15.992
+        ],
+        [
+          18.426,
+          24.869
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 468.208599,
+      "sourceElementSha256": "fb1250589d2a4ca55294aabb32d90709c2a70863bcc950ddc5713ff99e7ca10b"
+    },
+    {
+      "id": "source-041",
+      "sourceIndex": 41,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.559,
+          11.09
+        ],
+        [
+          21.909,
+          14.569
+        ],
+        [
+          0.0,
+          18.283
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 206.704254,
+      "sourceElementSha256": "8f33a229c1bfcb837399ccb733a4ba6787b8482a2c4b8625c6f2fda53fc6d951"
+    },
+    {
+      "id": "source-042",
+      "sourceIndex": 42,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.694
+        ],
+        [
+          12.655,
+          11.004
+        ],
+        [
+          13.226,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 133.0515445,
+      "sourceElementSha256": "6acdca9c4cc1970cbc596e8791479c4e64d57f832a3e3256ea8a4432a168d257"
+    },
+    {
+      "id": "source-043",
+      "sourceIndex": 43,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          21.957,
+          63.31
+        ],
+        [
+          63.999,
+          63.814
+        ],
+        [
+          71.335,
+          37.408
+        ],
+        [
+          60.365,
+          16.655
+        ],
+        [
+          48.962,
+          19.438
+        ],
+        [
+          32.092,
+          0.0
+        ],
+        [
+          0.0,
+          26.224
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2939.4352905,
+      "sourceElementSha256": "b2c1f29d031d37169e60581c41eadcfa9cf22773315dec2721b5d6fc1b42e978"
+    },
+    {
+      "id": "source-044",
+      "sourceIndex": 44,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          7.076,
+          24.868
+        ],
+        [
+          0.0,
+          15.992
+        ],
+        [
+          2.526,
+          4.926
+        ],
+        [
+          12.752,
+          0.0
+        ],
+        [
+          22.979,
+          4.926
+        ],
+        [
+          25.504,
+          15.992
+        ],
+        [
+          18.426,
+          24.868
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 468.213872,
+      "sourceElementSha256": "833c5a8301e40bc05ae82a84be233231eda8a3ea5d3b5cd4ab6860618aee241f"
+    },
+    {
+      "id": "source-045",
+      "sourceIndex": 45,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.556,
+          11.084
+        ],
+        [
+          21.908,
+          14.564
+        ],
+        [
+          0.0,
+          18.283
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 206.700638,
+      "sourceElementSha256": "9fb45b3865462cdcd0013084ab00d5a83da283fe6e1bfb9f4d39e83affa8bc8b"
+    },
+    {
+      "id": "source-046",
+      "sourceIndex": 46,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.701
+        ],
+        [
+          12.652,
+          11.004
+        ],
+        [
+          13.227,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 133.087038,
+      "sourceElementSha256": "f0b61fa101b5e3adcafc6bd579f96e348d9c3d74470e9f0a5e564db98fc2cf1f"
+    },
+    {
+      "id": "source-047",
+      "sourceIndex": 47,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.189,
+          14.807
+        ],
+        [
+          5.644,
+          16.384
+        ],
+        [
+          0.0,
+          9.771
+        ],
+        [
+          2.909,
+          1.58
+        ],
+        [
+          11.452,
+          0.0
+        ],
+        [
+          17.091,
+          6.613
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.2490245,
+      "sourceElementSha256": "5894a041605b99de0e8500a7191bf599f057eaf4bd9d81e32761d7716225825c"
+    },
+    {
+      "id": "source-048",
+      "sourceIndex": 48,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.698
+        ],
+        [
+          13.226,
+          10.442
+        ],
+        [
+          13.226,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 132.081449,
+      "sourceElementSha256": "538c86087033293df1610210ffa35d9479183c06fcaff15c44bd1156d7ae1ab1"
+    },
+    {
+      "id": "source-049",
+      "sourceIndex": 49,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          7.077,
+          24.868
+        ],
+        [
+          0.0,
+          15.991
+        ],
+        [
+          2.53,
+          4.925
+        ],
+        [
+          12.755,
+          0.0
+        ],
+        [
+          22.978,
+          4.925
+        ],
+        [
+          25.507,
+          15.991
+        ],
+        [
+          18.426,
+          24.868
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 468.207571,
+      "sourceElementSha256": "a0b63432e2e41911b87dcc0aed49e5578b51571e3d5d4509c37dc0c0540253fa"
+    },
+    {
+      "id": "source-050",
+      "sourceIndex": 50,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          9.084,
+          0.0
+        ],
+        [
+          0.0,
+          46.019
+        ],
+        [
+          66.473,
+          52.7
+        ],
+        [
+          82.467,
+          23.871
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2808.531236,
+      "sourceElementSha256": "22a2eb82e37a914f5fc49f967c4a9bd879934b81c6cf018da3200100ef5c77f1"
+    },
+    {
+      "id": "source-051",
+      "sourceIndex": 51,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.186,
+          14.799
+        ],
+        [
+          5.64,
+          16.381
+        ],
+        [
+          0.0,
+          9.767
+        ],
+        [
+          2.905,
+          1.574
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.091,
+          6.613
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.2232655,
+      "sourceElementSha256": "75e16dbfa25e37225764378d6d3854979163a653d37810ee6d5644cd9ab86df7"
+    },
+    {
+      "id": "source-052",
+      "sourceIndex": 52,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          30.912,
+          0.0
+        ],
+        [
+          30.912,
+          18.155
+        ],
+        [
+          0.0,
+          18.155
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 561.20736,
+      "sourceElementSha256": "8d6f051486b06da6a42f3ffb64caf1179bc5ecca7ee6c7f6a95e9cdaf13233bf"
+    },
+    {
+      "id": "source-053",
+      "sourceIndex": 53,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          29.564,
+          0.0
+        ],
+        [
+          29.564,
+          5.188
+        ],
+        [
+          0.0,
+          5.188
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 153.378032,
+      "sourceElementSha256": "4b11b5edc5682a11760e0f9b62ae95a76b74a076e346adea2c2f3a0671201490"
+    },
+    {
+      "id": "source-054",
+      "sourceIndex": 54,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          25.963,
+          0.0
+        ],
+        [
+          25.963,
+          17.636
+        ],
+        [
+          0.0,
+          17.636
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 457.883468,
+      "sourceElementSha256": "41ac25fffd84a80eae9022d8aaba5fb3ae3fdf77dc927c781af31dd9f19e20e4"
+    },
+    {
+      "id": "source-055",
+      "sourceIndex": 55,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          17.01,
+          0.0
+        ],
+        [
+          17.01,
+          40.392
+        ],
+        [
+          0.0,
+          40.392
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 687.06792,
+      "sourceElementSha256": "c6a437c7d1b37fec93f7ba10d6654aaa24bb3cb32a46c5a89e3e56171c6c0b95"
+    },
+    {
+      "id": "source-056",
+      "sourceIndex": 56,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          17.004,
+          0.0
+        ],
+        [
+          17.004,
+          17.634
+        ],
+        [
+          0.0,
+          17.634
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 299.848536,
+      "sourceElementSha256": "e3a7e02fa313351cea15f15b5b731b88cb6957db63971b31bd3361dc184909f3"
+    },
+    {
+      "id": "source-057",
+      "sourceIndex": 57,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          47.904,
+          0.0
+        ],
+        [
+          47.904,
+          25.868
+        ],
+        [
+          0.0,
+          25.868
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 1239.180672,
+      "sourceElementSha256": "d84944ad8e9e927f6550f30d1b0b9577adba2521741a8f88c96ce2faf480b0e3"
+    },
+    {
+      "id": "source-058",
+      "sourceIndex": 58,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          19.708,
+          2.076
+        ],
+        [
+          0.0,
+          34.235
+        ],
+        [
+          54.838,
+          37.347
+        ],
+        [
+          93.529,
+          19.711
+        ],
+        [
+          43.049,
+          22.823
+        ],
+        [
+          40.21,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 1581.4773185,
+      "sourceElementSha256": "c8a88c1194a408ad50a20cebfacccc9b8e58eec000f747087cd8a041aa427c58"
+    },
+    {
+      "id": "source-059",
+      "sourceIndex": 59,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          22.304
+        ],
+        [
+          27.616,
+          50.312
+        ],
+        [
+          152.573,
+          43.572
+        ],
+        [
+          74.661,
+          18.672
+        ],
+        [
+          31.567,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 3689.27519,
+      "sourceElementSha256": "aebe2ed478af874c9cac7ba32b8d2568e26c8e4aed5386dfc5c20be513528df6"
+    },
+    {
+      "id": "source-060",
+      "sourceIndex": 60,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.557,
+          11.083
+        ],
+        [
+          21.908,
+          14.564
+        ],
+        [
+          0.0,
+          18.283
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 206.718874,
+      "sourceElementSha256": "b3a3f787b0b005d6456329bb3cc77dda6d6092d9ef896121ddf3ee4941e1ffd8"
+    },
+    {
+      "id": "source-061",
+      "sourceIndex": 61,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.7
+        ],
+        [
+          12.653,
+          11.005
+        ],
+        [
+          13.226,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 133.0865895,
+      "sourceElementSha256": "aed81d6ee3ca773aa49e27ab95caa72f52684f9f181957926792dafbd500b470"
+    },
+    {
+      "id": "source-062",
+      "sourceIndex": 62,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.188,
+          14.807
+        ],
+        [
+          5.642,
+          16.384
+        ],
+        [
+          0.0,
+          9.77
+        ],
+        [
+          2.907,
+          1.581
+        ],
+        [
+          11.45,
+          0.0
+        ],
+        [
+          17.089,
+          6.613
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.2320135,
+      "sourceElementSha256": "51b2dae0bac39f542cd2acd08a079906a3fd90d0e4160306dbff483049c8c33f"
+    },
+    {
+      "id": "source-063",
+      "sourceIndex": 63,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.557,
+          11.089
+        ],
+        [
+          19.006,
+          17.769
+        ],
+        [
+          0.0,
+          18.285
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 224.3687545,
+      "sourceElementSha256": "485f410e54a73b6dbbe215a3884a528ce4bc57852ed514bcaedacfa40b8ccf24"
+    },
+    {
+      "id": "source-064",
+      "sourceIndex": 64,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.697
+        ],
+        [
+          13.225,
+          10.443
+        ],
+        [
+          13.225,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 132.0714625,
+      "sourceElementSha256": "35bcfbe027bf71ec27a645f49231a960af5dc1cb367a5e535a7703231cb1551d"
+    },
+    {
+      "id": "source-065",
+      "sourceIndex": 65,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.185,
+          14.803
+        ],
+        [
+          5.641,
+          16.38
+        ],
+        [
+          0.0,
+          9.766
+        ],
+        [
+          2.905,
+          1.577
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.088,
+          6.612
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.192291,
+      "sourceElementSha256": "61c2edfc508dd8cef13d48b1c6903f3d7d0d2b8ea54510ea45b512fad9bad04b"
+    },
+    {
+      "id": "source-066",
+      "sourceIndex": 66,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          30.08,
+          0.0
+        ],
+        [
+          0.0,
+          29.372
+        ],
+        [
+          13.485,
+          53.232
+        ],
+        [
+          35.915,
+          60.149
+        ],
+        [
+          42.012,
+          50.12
+        ],
+        [
+          67.686,
+          51.935
+        ],
+        [
+          71.834,
+          10.697
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2939.5830855,
+      "sourceElementSha256": "9764ffbd8805ee886468ed7c2320e71d374e2053b76a20f65176cbfdc9ca46f2"
+    },
+    {
+      "id": "source-067",
+      "sourceIndex": 67,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          2.334,
+          0.0
+        ],
+        [
+          0.0,
+          27.123
+        ],
+        [
+          17.377,
+          29.2
+        ],
+        [
+          30.602,
+          23.483
+        ],
+        [
+          28.006,
+          6.637
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 681.78789,
+      "sourceElementSha256": "3637ab6fc022fedb6b8453c0abd2dd3fc069de56023231d4fda99b714629f6d0"
+    },
+    {
+      "id": "source-068",
+      "sourceIndex": 68,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          36.512,
+          30.341
+        ],
+        [
+          81.246,
+          30.341
+        ],
+        [
+          81.246,
+          53.292
+        ],
+        [
+          0.0,
+          53.292
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2418.582242,
+      "sourceElementSha256": "1950500fc3c5d784f46276a1fd417e9ccd6752946a3cb1e5226d57d00981b053"
+    },
+    {
+      "id": "source-069",
+      "sourceIndex": 69,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          28.415
+        ],
+        [
+          16.405,
+          0.0
+        ],
+        [
+          32.813,
+          28.415
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 466.1906975,
+      "sourceElementSha256": "13371cd17090c80f821f643bf6047af7e1c4527b78c63283ce060875a2083935"
+    },
+    {
+      "id": "source-070",
+      "sourceIndex": 70,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          7.078,
+          24.869
+        ],
+        [
+          0.0,
+          15.992
+        ],
+        [
+          2.529,
+          4.926
+        ],
+        [
+          12.755,
+          0.0
+        ],
+        [
+          22.978,
+          4.926
+        ],
+        [
+          25.507,
+          15.992
+        ],
+        [
+          18.426,
+          24.869
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 468.2213525,
+      "sourceElementSha256": "97c030cb41278ae0f333cd8d24bf9d4da637baa06e80c43d3dd1d86430f735c0"
+    },
+    {
+      "id": "source-071",
+      "sourceIndex": 71,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.559,
+          11.09
+        ],
+        [
+          21.909,
+          14.569
+        ],
+        [
+          0.0,
+          18.283
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 206.704254,
+      "sourceElementSha256": "722c20b622cc3def7dc762853c89888332330dfc41d86400475ae033291a4ff4"
+    },
+    {
+      "id": "source-072",
+      "sourceIndex": 72,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.694
+        ],
+        [
+          12.654,
+          11.004
+        ],
+        [
+          13.226,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 133.046781,
+      "sourceElementSha256": "600e433355825802e29340ab610a38f5371ad3d7e5f9d57dfd6a4f2cf824e24d"
+    },
+    {
+      "id": "source-073",
+      "sourceIndex": 73,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          21.957,
+          63.309
+        ],
+        [
+          63.999,
+          63.813
+        ],
+        [
+          71.335,
+          37.407
+        ],
+        [
+          60.365,
+          16.654
+        ],
+        [
+          48.962,
+          19.437
+        ],
+        [
+          32.092,
+          0.0
+        ],
+        [
+          0.0,
+          26.223
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2939.4108095,
+      "sourceElementSha256": "b365572fdf7da07216edd3261238b85ed67cb4ad58bbf075647353bad499d022"
+    },
+    {
+      "id": "source-074",
+      "sourceIndex": 74,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          7.075,
+          24.868
+        ],
+        [
+          0.0,
+          15.991
+        ],
+        [
+          2.526,
+          4.926
+        ],
+        [
+          12.752,
+          0.0
+        ],
+        [
+          22.979,
+          4.926
+        ],
+        [
+          25.504,
+          15.991
+        ],
+        [
+          18.426,
+          24.868
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 468.213759,
+      "sourceElementSha256": "007405286f5cf0b22b3754bdcf4ab6577b28748bc6c2051a886f801204607637"
+    },
+    {
+      "id": "source-075",
+      "sourceIndex": 75,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.555,
+          11.084
+        ],
+        [
+          21.907,
+          14.563
+        ],
+        [
+          0.0,
+          18.283
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 206.680979,
+      "sourceElementSha256": "ba504598c4a3657d63d6e00e354a51c3ee5c9fef1e8ff4c05a508be3a5a77a30"
+    },
+    {
+      "id": "source-076",
+      "sourceIndex": 76,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.7
+        ],
+        [
+          12.652,
+          11.004
+        ],
+        [
+          13.227,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 133.080712,
+      "sourceElementSha256": "75a0489732e7e23dd5239c48d29de09b888d6d526f438fb9b64b9bc8b71ba5a6"
+    },
+    {
+      "id": "source-077",
+      "sourceIndex": 77,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.189,
+          14.807
+        ],
+        [
+          5.644,
+          16.384
+        ],
+        [
+          0.0,
+          9.771
+        ],
+        [
+          2.909,
+          1.581
+        ],
+        [
+          11.452,
+          0.0
+        ],
+        [
+          17.091,
+          6.614
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.24193,
+      "sourceElementSha256": "eb3355a47bd901b226acc42b4ad111e7c52db93885156d5d151f67164e8eadf4"
+    },
+    {
+      "id": "source-078",
+      "sourceIndex": 78,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.697
+        ],
+        [
+          13.226,
+          10.441
+        ],
+        [
+          13.226,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 132.068223,
+      "sourceElementSha256": "24d9e2913267ece47b740f4357cb7afcef9f0bb5724b5beda5801e5607574c5e"
+    },
+    {
+      "id": "source-079",
+      "sourceIndex": 79,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          7.077,
+          24.868
+        ],
+        [
+          0.0,
+          15.991
+        ],
+        [
+          2.53,
+          4.926
+        ],
+        [
+          12.755,
+          0.0
+        ],
+        [
+          22.978,
+          4.926
+        ],
+        [
+          25.507,
+          15.991
+        ],
+        [
+          18.426,
+          24.868
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 468.1948175,
+      "sourceElementSha256": "a3d90420e8fa49fc881142b8082ca328550dcd930caea038309c083111455510"
+    },
+    {
+      "id": "source-080",
+      "sourceIndex": 80,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          9.085,
+          0.0
+        ],
+        [
+          0.0,
+          46.02
+        ],
+        [
+          66.473,
+          52.7
+        ],
+        [
+          82.467,
+          23.871
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2808.548856,
+      "sourceElementSha256": "56a71a9d719b414182865d3bae0977d463797e6db2457a484a6b953631a901e9"
+    },
+    {
+      "id": "source-081",
+      "sourceIndex": 81,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.187,
+          14.799
+        ],
+        [
+          5.641,
+          16.38
+        ],
+        [
+          0.0,
+          9.767
+        ],
+        [
+          2.906,
+          1.574
+        ],
+        [
+          11.452,
+          0.0
+        ],
+        [
+          17.092,
+          6.613
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.2235755,
+      "sourceElementSha256": "00ad0bfd810db07d96e224d4bfe89dad05305b989726900c6829705b8daf19df"
+    },
+    {
+      "id": "source-082",
+      "sourceIndex": 82,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          30.912,
+          0.0
+        ],
+        [
+          30.912,
+          18.155
+        ],
+        [
+          0.0,
+          18.155
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 561.20736,
+      "sourceElementSha256": "895816024d6990f6659036d3fb6925bc5f1db45b98d495d0fcaea7851624334a"
+    },
+    {
+      "id": "source-083",
+      "sourceIndex": 83,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          29.564,
+          0.0
+        ],
+        [
+          29.564,
+          5.188
+        ],
+        [
+          0.0,
+          5.188
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 153.378032,
+      "sourceElementSha256": "2340ba65543b901443f2da7346d10236df068825d844f64d6183eebe3d10941f"
+    },
+    {
+      "id": "source-084",
+      "sourceIndex": 84,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          25.963,
+          0.0
+        ],
+        [
+          25.963,
+          17.637
+        ],
+        [
+          0.0,
+          17.637
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 457.909431,
+      "sourceElementSha256": "e42ba6aa7ffea9be194057a9846d523334849e8e64474e47f6fd275081523d0b"
+    },
+    {
+      "id": "source-085",
+      "sourceIndex": 85,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          17.01,
+          0.0
+        ],
+        [
+          17.01,
+          40.393
+        ],
+        [
+          0.0,
+          40.393
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 687.08493,
+      "sourceElementSha256": "5792c1f6a3159912624fb2395cc7e79825c3e66d7625a9b8304460883bdc0500"
+    },
+    {
+      "id": "source-086",
+      "sourceIndex": 86,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          17.004,
+          0.0
+        ],
+        [
+          17.004,
+          17.633
+        ],
+        [
+          0.0,
+          17.633
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 299.831532,
+      "sourceElementSha256": "41934bba285bbcbe19ac023253d290a6c218d651b9ad73c46c3ce2b28cc9e445"
+    },
+    {
+      "id": "source-087",
+      "sourceIndex": 87,
+      "sourceTag": "rect",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          47.904,
+          0.0
+        ],
+        [
+          47.904,
+          25.868
+        ],
+        [
+          0.0,
+          25.868
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 1239.180672,
+      "sourceElementSha256": "9545aed73e513fc2d872317997f5494544da6572614b1a1f6e61d3cd2057ebd8"
+    },
+    {
+      "id": "source-088",
+      "sourceIndex": 88,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          19.709,
+          2.076
+        ],
+        [
+          0.0,
+          34.235
+        ],
+        [
+          54.838,
+          37.345
+        ],
+        [
+          93.53,
+          19.711
+        ],
+        [
+          43.049,
+          22.823
+        ],
+        [
+          40.211,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 1581.3843065,
+      "sourceElementSha256": "f5801ed58a773acd377e79a816d50f05de80612d4578f8e8e557f916702ac2a8"
+    },
+    {
+      "id": "source-089",
+      "sourceIndex": 89,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          22.304
+        ],
+        [
+          27.616,
+          50.311
+        ],
+        [
+          152.573,
+          43.571
+        ],
+        [
+          74.661,
+          18.672
+        ],
+        [
+          31.567,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 3689.175381,
+      "sourceElementSha256": "f6b7c4ade8443d545e82842910d7cf31672bcacf87ad50a2e0baf4bb060d69da"
+    },
+    {
+      "id": "source-090",
+      "sourceIndex": 90,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.556,
+          11.083
+        ],
+        [
+          21.908,
+          14.563
+        ],
+        [
+          0.0,
+          18.283
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 206.702814,
+      "sourceElementSha256": "235ba46de2843be846187eab75652667a8cea65d769555301256be3c9eb066c9"
+    },
+    {
+      "id": "source-091",
+      "sourceIndex": 91,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.7
+        ],
+        [
+          12.651,
+          11.005
+        ],
+        [
+          13.226,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 133.0770565,
+      "sourceElementSha256": "0cde64feed24050b7132cb06c64820aae3c66206fc51b328415f21b0e70814eb"
+    },
+    {
+      "id": "source-092",
+      "sourceIndex": 92,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.19,
+          14.806
+        ],
+        [
+          5.644,
+          16.383
+        ],
+        [
+          0.0,
+          9.77
+        ],
+        [
+          2.909,
+          1.581
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.091,
+          6.613
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.231482,
+      "sourceElementSha256": "e34a1734799ed474bcbdfc8e58d905d41f61f5047fd4bcf602452fc739cb655a"
+    },
+    {
+      "id": "source-093",
+      "sourceIndex": 93,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.557,
+          11.089
+        ],
+        [
+          19.006,
+          17.768
+        ],
+        [
+          0.0,
+          18.285
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 224.359976,
+      "sourceElementSha256": "aaeb9700346112d5f556d681bc7b881f6bf7c612d309ecb96cdc2cff21ca2113"
+    },
+    {
+      "id": "source-094",
+      "sourceIndex": 94,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.697
+        ],
+        [
+          13.226,
+          10.442
+        ],
+        [
+          13.226,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 132.074836,
+      "sourceElementSha256": "35401130e4e7451231903c1a4c5b0b61732a05b938468e759f25dd42e1748a00"
+    },
+    {
+      "id": "source-095",
+      "sourceIndex": 95,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.186,
+          14.802
+        ],
+        [
+          5.64,
+          16.379
+        ],
+        [
+          0.0,
+          9.766
+        ],
+        [
+          2.905,
+          1.577
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.088,
+          6.612
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.1868765,
+      "sourceElementSha256": "b9685ad9b441a8c6af497e13b3d01caf5d7a6f84107ca4590e2bb0833be07dab"
+    },
+    {
+      "id": "source-096",
+      "sourceIndex": 96,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          30.08,
+          0.0
+        ],
+        [
+          0.0,
+          29.372
+        ],
+        [
+          13.484,
+          53.231
+        ],
+        [
+          35.915,
+          60.148
+        ],
+        [
+          42.012,
+          50.12
+        ],
+        [
+          67.686,
+          51.935
+        ],
+        [
+          71.834,
+          10.697
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2939.5662525,
+      "sourceElementSha256": "c059b7f2e73c776a1ed203dbe0772a573c86334846a3ec1dafe45df953ec5a52"
+    },
+    {
+      "id": "source-097",
+      "sourceIndex": 97,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          2.334,
+          0.0
+        ],
+        [
+          0.0,
+          27.123
+        ],
+        [
+          17.377,
+          29.199
+        ],
+        [
+          30.603,
+          23.483
+        ],
+        [
+          28.007,
+          6.637
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 681.7956115,
+      "sourceElementSha256": "303be4446dcba9e1bf14283d2ebe732f23c51281749a3670fe0f65684aa8bbfb"
+    },
+    {
+      "id": "source-098",
+      "sourceIndex": 98,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          36.512,
+          30.341
+        ],
+        [
+          81.246,
+          30.341
+        ],
+        [
+          81.246,
+          53.292
+        ],
+        [
+          0.0,
+          53.292
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2418.582242,
+      "sourceElementSha256": "0b8b9e52ed3e267960d9d18d14ad7ae221cfdbc6951877504a9063b85ecd99de"
+    },
+    {
+      "id": "source-099",
+      "sourceIndex": 99,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          28.415
+        ],
+        [
+          16.405,
+          0.0
+        ],
+        [
+          32.812,
+          28.415
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 466.17649,
+      "sourceElementSha256": "a97a754025ed9da6fa23b5f79fcba782c7df733260efed1366199285c9f9c788"
+    },
+    {
+      "id": "source-100",
+      "sourceIndex": 100,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          7.078,
+          24.869
+        ],
+        [
+          0.0,
+          15.991
+        ],
+        [
+          2.528,
+          4.927
+        ],
+        [
+          12.755,
+          0.0
+        ],
+        [
+          22.978,
+          4.927
+        ],
+        [
+          25.507,
+          15.991
+        ],
+        [
+          18.426,
+          24.869
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 468.212044,
+      "sourceElementSha256": "71255e233ea5004aa81df955d037ec5c0bda66333894722ed6d3037a72180684"
+    },
+    {
+      "id": "source-101",
+      "sourceIndex": 101,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.56,
+          11.09
+        ],
+        [
+          21.91,
+          14.57
+        ],
+        [
+          0.0,
+          18.284
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 206.73487,
+      "sourceElementSha256": "8021a6b01cd0ccddcc30ac1f12bf87fadf17e900de5230300776dda244cea19f"
+    },
+    {
+      "id": "source-102",
+      "sourceIndex": 102,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.694
+        ],
+        [
+          12.654,
+          11.003
+        ],
+        [
+          13.226,
+          1.168
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 133.033841,
+      "sourceElementSha256": "2a2fdc69794d94776f35bac95a449d41d02a436a8b6eba3506824128715b0f8a"
+    },
+    {
+      "id": "source-103",
+      "sourceIndex": 103,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          7.075,
+          24.868
+        ],
+        [
+          0.0,
+          15.991
+        ],
+        [
+          2.525,
+          4.926
+        ],
+        [
+          12.752,
+          0.0
+        ],
+        [
+          22.979,
+          4.926
+        ],
+        [
+          25.504,
+          15.991
+        ],
+        [
+          18.426,
+          24.868
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 468.2217545,
+      "sourceElementSha256": "543c81a92e2b4094650127bf47e1f399d8ee2440fe7eefc9639aabdd34fd5d8c"
+    },
+    {
+      "id": "source-104",
+      "sourceIndex": 104,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.557,
+          11.084
+        ],
+        [
+          21.909,
+          14.564
+        ],
+        [
+          0.0,
+          18.285
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 206.7334285,
+      "sourceElementSha256": "6d01b5ad1ba55dc57d9fb716554a93163c8bb727a8887f02b1eb851a4336211e"
+    },
+    {
+      "id": "source-105",
+      "sourceIndex": 105,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.7
+        ],
+        [
+          12.652,
+          11.003
+        ],
+        [
+          13.226,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 133.068597,
+      "sourceElementSha256": "1d244b0e76b44e82b5e3e92525a1d92ca71f05bc6f6979066fc30c7448873279"
+    },
+    {
+      "id": "source-106",
+      "sourceIndex": 106,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.189,
+          14.807
+        ],
+        [
+          5.644,
+          16.384
+        ],
+        [
+          0.0,
+          9.771
+        ],
+        [
+          2.908,
+          1.58
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.091,
+          6.614
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.2500245,
+      "sourceElementSha256": "27cf2c00b11a60835fc3cb919f576e5511431591d1e2741a28fac4701d198349"
+    },
+    {
+      "id": "source-107",
+      "sourceIndex": 107,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.697
+        ],
+        [
+          13.227,
+          10.441
+        ],
+        [
+          13.227,
+          1.168
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 132.071595,
+      "sourceElementSha256": "bb275ac514b42661b172f312c74a640c4271696ad6c144590181767a1be8cc84"
+    },
+    {
+      "id": "source-108",
+      "sourceIndex": 108,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          7.076,
+          24.868
+        ],
+        [
+          0.0,
+          15.991
+        ],
+        [
+          2.527,
+          4.926
+        ],
+        [
+          12.754,
+          0.0
+        ],
+        [
+          22.977,
+          4.926
+        ],
+        [
+          25.506,
+          15.991
+        ],
+        [
+          18.425,
+          24.868
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 468.2008375,
+      "sourceElementSha256": "a917038f2d13c448a58d25d5878cd881a3f5b0b684a32b8cc3c9a517bb801c20"
+    },
+    {
+      "id": "source-109",
+      "sourceIndex": 109,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          9.084,
+          0.0
+        ],
+        [
+          0.0,
+          46.019
+        ],
+        [
+          66.475,
+          52.7
+        ],
+        [
+          82.468,
+          23.871
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2808.579734,
+      "sourceElementSha256": "8493e5354bd2c2f1b22a93d12b0fc89cda3800ceb8e31611257bef7d418535ef"
+    },
+    {
+      "id": "source-110",
+      "sourceIndex": 110,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.187,
+          14.8
+        ],
+        [
+          5.641,
+          16.381
+        ],
+        [
+          0.0,
+          9.768
+        ],
+        [
+          2.905,
+          1.573
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.092,
+          6.614
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.244484,
+      "sourceElementSha256": "a90c9edd6afed9b74bcc41e68124446562095655f7d0a1c9d4485e00c998f60a"
+    },
+    {
+      "id": "source-111",
+      "sourceIndex": 111,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.557,
+          11.083
+        ],
+        [
+          21.908,
+          14.563
+        ],
+        [
+          0.0,
+          18.283
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 206.7100955,
+      "sourceElementSha256": "6181523e7839c59ab2ee8817d49de4c7087f30f6e157428723ace2c31d69bca5"
+    },
+    {
+      "id": "source-112",
+      "sourceIndex": 112,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.7
+        ],
+        [
+          12.653,
+          11.005
+        ],
+        [
+          13.227,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 133.092092,
+      "sourceElementSha256": "af7e3cf7f7c405f474898d923ab63c539609948d0d7a1a80c0654e694733d89b"
+    },
+    {
+      "id": "source-113",
+      "sourceIndex": 113,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.189,
+          14.807
+        ],
+        [
+          5.642,
+          16.384
+        ],
+        [
+          0.0,
+          9.771
+        ],
+        [
+          2.908,
+          1.581
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.09,
+          6.613
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.2433005,
+      "sourceElementSha256": "4500ecbfbb19db88a48137a66646a7f9042d4c2a6d63cf8d7e1941372553f88b"
+    },
+    {
+      "id": "source-114",
+      "sourceIndex": 114,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.557,
+          11.089
+        ],
+        [
+          19.007,
+          17.768
+        ],
+        [
+          0.0,
+          18.285
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 224.363574,
+      "sourceElementSha256": "65944d5d8cef399030c8eb2d710b2b883f7ef18d07f72b77ff3a91730ea01a64"
+    },
+    {
+      "id": "source-115",
+      "sourceIndex": 115,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.697
+        ],
+        [
+          13.226,
+          10.442
+        ],
+        [
+          13.226,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 132.074836,
+      "sourceElementSha256": "92815073e4ddf8137de8285cd16a5c6f7b79ef21d11b372fa618c78301426b1e"
+    },
+    {
+      "id": "source-116",
+      "sourceIndex": 116,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.187,
+          14.802
+        ],
+        [
+          5.641,
+          16.378
+        ],
+        [
+          0.0,
+          9.766
+        ],
+        [
+          2.905,
+          1.577
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.088,
+          6.612
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.1821485,
+      "sourceElementSha256": "f05d62abe15504645ab41868dafdaf64733d044f8f96d841cb01cd1041068bde"
+    },
+    {
+      "id": "source-117",
+      "sourceIndex": 117,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          30.081,
+          0.0
+        ],
+        [
+          0.0,
+          29.372
+        ],
+        [
+          13.485,
+          53.232
+        ],
+        [
+          35.916,
+          60.149
+        ],
+        [
+          42.012,
+          50.12
+        ],
+        [
+          67.686,
+          51.935
+        ],
+        [
+          71.834,
+          10.698
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2939.5565015,
+      "sourceElementSha256": "b1d3766e77b06f24b2b7d8bbabab68f17fed953604f33886c8151c420a05f72e"
+    },
+    {
+      "id": "source-118",
+      "sourceIndex": 118,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          2.334,
+          0.0
+        ],
+        [
+          0.0,
+          27.123
+        ],
+        [
+          17.377,
+          29.199
+        ],
+        [
+          30.602,
+          23.483
+        ],
+        [
+          28.007,
+          6.637
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 681.7843305,
+      "sourceElementSha256": "009348b0d8476d6b4be8550eeb5c2b208e6755081c9d1fff329f298322fee703"
+    },
+    {
+      "id": "source-119",
+      "sourceIndex": 119,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          36.512,
+          30.341
+        ],
+        [
+          81.246,
+          30.341
+        ],
+        [
+          81.246,
+          53.292
+        ],
+        [
+          0.0,
+          53.292
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2418.582242,
+      "sourceElementSha256": "6c628c3431aae49c3252da7c44eec9930f4a90161fffb26abb947d1c2f0bed68"
+    },
+    {
+      "id": "source-120",
+      "sourceIndex": 120,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          28.415
+        ],
+        [
+          16.407,
+          0.0
+        ],
+        [
+          32.813,
+          28.415
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 466.1906975,
+      "sourceElementSha256": "734574b4d6d09292ffde78a440d2fab60bec0cd981344f0d8cc9c47c1bcc7ae0"
+    },
+    {
+      "id": "source-121",
+      "sourceIndex": 121,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          7.078,
+          24.869
+        ],
+        [
+          0.0,
+          15.992
+        ],
+        [
+          2.527,
+          4.925
+        ],
+        [
+          12.753,
+          0.0
+        ],
+        [
+          22.976,
+          4.925
+        ],
+        [
+          25.505,
+          15.992
+        ],
+        [
+          18.425,
+          24.869
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 468.2097235,
+      "sourceElementSha256": "7053973ff425730f45784c1968c8ab431c799293c921e6cea69902f98fed365c"
+    },
+    {
+      "id": "source-122",
+      "sourceIndex": 122,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.559,
+          11.09
+        ],
+        [
+          21.909,
+          14.57
+        ],
+        [
+          0.0,
+          18.284
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 206.723988,
+      "sourceElementSha256": "2dc3779f83a4c69d35be6ad20dfe65c36fe35c17f251028d3f9f17105197000a"
+    },
+    {
+      "id": "source-123",
+      "sourceIndex": 123,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.693
+        ],
+        [
+          12.655,
+          11.002
+        ],
+        [
+          13.226,
+          1.166
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 133.0383185,
+      "sourceElementSha256": "b65f418d7e7fb797da7cbb11e04ab041b5a47c6d2985dbe8ce48685bc436a0bc"
+    },
+    {
+      "id": "source-124",
+      "sourceIndex": 124,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          7.075,
+          24.868
+        ],
+        [
+          0.0,
+          15.991
+        ],
+        [
+          2.526,
+          4.926
+        ],
+        [
+          12.752,
+          0.0
+        ],
+        [
+          22.979,
+          4.926
+        ],
+        [
+          25.504,
+          15.991
+        ],
+        [
+          18.426,
+          24.868
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 468.213759,
+      "sourceElementSha256": "bd3e192fa79bf6a63b14ee5d31731b207c3beca445f9e70243bc4e39d99a19d2"
+    },
+    {
+      "id": "source-125",
+      "sourceIndex": 125,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.556,
+          11.084
+        ],
+        [
+          21.908,
+          14.563
+        ],
+        [
+          0.0,
+          18.283
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 206.69186,
+      "sourceElementSha256": "6147084d487b102e1f459ec753ab1e6f4200d1d8c17ff45b026f9a8ccdf5c5ca"
+    },
+    {
+      "id": "source-126",
+      "sourceIndex": 126,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.7
+        ],
+        [
+          12.653,
+          11.004
+        ],
+        [
+          13.227,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 133.0854785,
+      "sourceElementSha256": "07db310aa23be778305ac1c7549afd5c08c32156f3168a398cd6cc01f3cfa483"
+    },
+    {
+      "id": "source-127",
+      "sourceIndex": 127,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.189,
+          14.806
+        ],
+        [
+          5.644,
+          16.383
+        ],
+        [
+          0.0,
+          9.77
+        ],
+        [
+          2.908,
+          1.58
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.092,
+          6.613
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.2446105,
+      "sourceElementSha256": "970ea496ecabbdf338b0483ad6b77854ce5a1227a2c2acffb5f52f9218983ffd"
+    },
+    {
+      "id": "source-128",
+      "sourceIndex": 128,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.697
+        ],
+        [
+          13.226,
+          10.441
+        ],
+        [
+          13.226,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 132.068223,
+      "sourceElementSha256": "77eba77fefa2a92fe519bf90ba18c38bdcc45717719ee4124dcaf8c955773a16"
+    },
+    {
+      "id": "source-129",
+      "sourceIndex": 129,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          13.227,
+          0.0
+        ],
+        [
+          9.465,
+          7.433
+        ],
+        [
+          0.0,
+          10.114
+        ],
+        [
+          0.0,
+          18.283
+        ],
+        [
+          9.465,
+          21.437
+        ],
+        [
+          13.227,
+          27.534
+        ],
+        [
+          21.785,
+          27.534
+        ],
+        [
+          25.024,
+          23.121
+        ],
+        [
+          30.914,
+          18.304
+        ],
+        [
+          30.914,
+          10.114
+        ],
+        [
+          25.024,
+          6.655
+        ],
+        [
+          19.967,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 556.5231975,
+      "sourceElementSha256": "c55668107538105dba173877ac20bb46e10515a6aa92d5efef176e06cdefeeb6"
+    },
+    {
+      "id": "source-130",
+      "sourceIndex": 130,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          7.079,
+          24.867
+        ],
+        [
+          0.0,
+          15.992
+        ],
+        [
+          2.53,
+          4.926
+        ],
+        [
+          12.756,
+          0.0
+        ],
+        [
+          22.979,
+          4.926
+        ],
+        [
+          25.508,
+          15.992
+        ],
+        [
+          18.426,
+          24.867
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 468.1900305,
+      "sourceElementSha256": "8bd75b1a4cdc5b4fef14ce5e109a2b4dc09eb596127c66ae1870aa16cb8dbc00"
+    },
+    {
+      "id": "source-131",
+      "sourceIndex": 131,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          9.084,
+          0.0
+        ],
+        [
+          0.0,
+          46.02
+        ],
+        [
+          66.472,
+          52.7
+        ],
+        [
+          82.467,
+          23.871
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2808.548856,
+      "sourceElementSha256": "15ca75fca9157fb0fdfd7a717caf76ebb142b4ac84fe10ab03cabb8b119fb130"
+    },
+    {
+      "id": "source-132",
+      "sourceIndex": 132,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.186,
+          14.8
+        ],
+        [
+          5.64,
+          16.381
+        ],
+        [
+          0.0,
+          9.768
+        ],
+        [
+          2.905,
+          1.574
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.091,
+          6.614
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.228991,
+      "sourceElementSha256": "e35df9b9e652340dc220bcb57f9439853657b474d25fcaf990ace23562841501"
+    },
+    {
+      "id": "source-133",
+      "sourceIndex": 133,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.557,
+          11.083
+        ],
+        [
+          21.909,
+          14.563
+        ],
+        [
+          0.0,
+          18.283
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 206.7136955,
+      "sourceElementSha256": "bfe104834921125669603c7c96538e1d469cc4ed3f81c2179ae8c11239ecc6b4"
+    },
+    {
+      "id": "source-134",
+      "sourceIndex": 134,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.7
+        ],
+        [
+          12.653,
+          11.005
+        ],
+        [
+          13.227,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 133.092092,
+      "sourceElementSha256": "218e70f9b58a363766f2d9b0d57fdda4272fc8e73b78af8726229c88c3ec10b4"
+    },
+    {
+      "id": "source-135",
+      "sourceIndex": 135,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.189,
+          14.807
+        ],
+        [
+          5.642,
+          16.384
+        ],
+        [
+          0.0,
+          9.771
+        ],
+        [
+          2.908,
+          1.582
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.09,
+          6.614
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.236206,
+      "sourceElementSha256": "9a8eb9d7f9921c0e3064f20cb6c8fa9e512cf3cc4b63758468ccb1be4172b0ba"
+    },
+    {
+      "id": "source-136",
+      "sourceIndex": 136,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          17.557,
+          11.089
+        ],
+        [
+          19.006,
+          17.768
+        ],
+        [
+          0.0,
+          18.285
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 224.359976,
+      "sourceElementSha256": "36a67e722a48db1d7ee6c3b9caedb9c44d70ee8071af6ce308017f2daae8db03"
+    },
+    {
+      "id": "source-137",
+      "sourceIndex": 137,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          10.697
+        ],
+        [
+          13.226,
+          10.442
+        ],
+        [
+          13.226,
+          1.167
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 132.074836,
+      "sourceElementSha256": "dc51dcf6bc3931f085f79649e09847520f81b6c58af99a01d40716109466e719"
+    },
+    {
+      "id": "source-138",
+      "sourceIndex": 138,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          14.188,
+          14.803
+        ],
+        [
+          5.641,
+          16.38
+        ],
+        [
+          0.0,
+          9.767
+        ],
+        [
+          2.906,
+          1.577
+        ],
+        [
+          11.451,
+          0.0
+        ],
+        [
+          17.088,
+          6.613
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 196.202059,
+      "sourceElementSha256": "fbfeaf8e67c8fcd09a830c7c2bf1ceaa9b33edd2ef621e2bbc3f32528649d2e7"
+    },
+    {
+      "id": "source-139",
+      "sourceIndex": 139,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          30.081,
+          0.0
+        ],
+        [
+          0.0,
+          29.372
+        ],
+        [
+          13.485,
+          53.231
+        ],
+        [
+          35.916,
+          60.148
+        ],
+        [
+          42.012,
+          50.12
+        ],
+        [
+          67.686,
+          51.934
+        ],
+        [
+          71.834,
+          10.697
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2939.5281715,
+      "sourceElementSha256": "c53fae0da20131e6c66cedda3773695b31a93f761c4026e1705615d873c5a6ef"
+    },
+    {
+      "id": "source-140",
+      "sourceIndex": 140,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          7.078,
+          24.869
+        ],
+        [
+          0.0,
+          15.992
+        ],
+        [
+          2.527,
+          4.927
+        ],
+        [
+          12.753,
+          0.0
+        ],
+        [
+          22.976,
+          4.927
+        ],
+        [
+          25.505,
+          15.992
+        ],
+        [
+          18.425,
+          24.869
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 468.1842185,
+      "sourceElementSha256": "0c310ad4cad81066b3bdd555e55188a0140cb174ff042d0d7d0372a8fd172022"
+    },
+    {
+      "id": "source-141",
+      "sourceIndex": 141,
+      "sourceTag": "polygon",
+      "vertices": [
+        [
+          9.084,
+          0.0
+        ],
+        [
+          0.0,
+          46.019
+        ],
+        [
+          66.472,
+          52.7
+        ],
+        [
+          82.467,
+          23.871
+        ]
+      ],
+      "allowedRotations": [
+        0,
+        90,
+        180,
+        270
+      ],
+      "quantity": 1,
+      "area": 2808.520162,
+      "sourceElementSha256": "13233c9191737612d166e948bad4727e03f40c1b80e37dc679b9764e198b9fa8"
+    }
+  ],
+  "stock": [
+    {
+      "id": "scrap-1",
+      "kind": "existing",
+      "width": 255.911,
+      "height": 169.6175,
+      "quantity": 1
+    },
+    {
+      "id": "scrap-2",
+      "kind": "existing",
+      "width": 255.911,
+      "height": 169.6175,
+      "quantity": 1
+    },
+    {
+      "id": "scrap-3",
+      "kind": "existing",
+      "width": 255.911,
+      "height": 169.6175,
+      "quantity": 1
+    },
+    {
+      "id": "scrap-4",
+      "kind": "existing",
+      "width": 255.911,
+      "height": 169.6175,
+      "quantity": 1
+    },
+    {
+      "id": "new-original-size",
+      "kind": "purchase",
+      "width": 511.822,
+      "height": 339.235,
+      "quantity": 2
+    }
+  ],
+  "spacing": 2.0,
+  "margin": 1.0,
+  "mirrorAllowed": false,
+  "objectivePriority": [
+    "minimize purchased sheet area",
+    "then minimize total used sheet area"
+  ],
+  "negativeConditions": [
+    "Do not omit/duplicate/shrink/deform original parts",
+    "Obey each part rotation, spacing and margin",
+    "Do not exceed each stock quantity"
+  ],
+  "resultFiles": [
+    "layout.svg",
+    "placements.json",
+    "result.json"
+  ],
+  "oracleBoundary": "No geometric placement or ordinary/candidate answer included in input; no optimality assumed",
+  "caseId": "base",
+  "utterance": "Please lay out all the parts, use my four existing quarter sheets before buying a new full sheet, leave two units between parts and one unit around the edge."
+}

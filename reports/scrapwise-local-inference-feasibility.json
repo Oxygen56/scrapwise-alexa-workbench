@@ -1,0 +1,157 @@
+{
+  "schema": "scrapwise.local-inference-feasibility.v1",
+  "recordedAt": "2026-10-05T03:34:35.875773+00:00",
+  "status": "LOCAL_PATH_AVAILABLE_INFERENCE_NOT_CALLED",
+  "scope": "Read-only feasibility for replacing the finite wordlist after actual rejection of ordinary paraphrases; no new platform, dataset or product build.",
+  "measuredHardware": {
+    "architecture": "arm64",
+    "processor": "Apple M4",
+    "cpuCount": 10,
+    "hardwareModel": "Mac16,13",
+    "physicalMemoryBytes": 25769803776,
+    "physicalMemoryGiB": 24,
+    "memoryPressureReportedFreePercentage": 53,
+    "diskTotalBytes": 994662584320,
+    "diskFreeBytes": 101199781888,
+    "measurements": [
+      "uname -m",
+      "sysctl machdep.cpu.brand_string/hw.memsize/hw.ncpu/hw.model",
+      "memory_pressure -Q",
+      "Python disk_usage"
+    ]
+  },
+  "existingRuntime": {
+    "ollamaExecutable": "/opt/homebrew/bin/ollama",
+    "version": "0.32.5",
+    "localServiceResponsive": true,
+    "catalogAndModelMetadataQueriesExitCode": 0,
+    "loadedModelsAtInspection": [],
+    "otherExecutablePresence": {
+      "llama-cli": false,
+      "llama-server": false,
+      "mlx_lm": false,
+      "lms": false
+    },
+    "existingPythonPackages": {
+      "mlx": true,
+      "mlx_lm": false,
+      "llama_cpp": false,
+      "transformers": false,
+      "torch": true,
+      "huggingface_hub": true
+    },
+    "metadataOnlyQueries": [
+      "ollama --version",
+      "ollama list",
+      "ollama show qwen2.5:7b",
+      "ollama ps"
+    ]
+  },
+  "cachedCatalog": [
+    {
+      "tag": "gemma4/12b",
+      "manifestSha256": "4eb23ef187e2c5462566d6a1d3bbbc2f1346d0b4327cbb66d58fffbcc9b2b05c",
+      "layerBytes": 7556507848
+    },
+    {
+      "tag": "gpt-oss/20b",
+      "manifestSha256": "17052f91a42e97930aa6e28a6c6c06a983e6a58dbb00434885a0cf5313e376f7",
+      "layerBytes": 13793440755
+    },
+    {
+      "tag": "nomic-embed-text/latest",
+      "manifestSha256": "0a109f422b47e3a30ba2b10eca18548e944e8a23073ee3f3e947efcf3c45e59f",
+      "layerBytes": 274302030
+    },
+    {
+      "tag": "qwen2.5/0.5b",
+      "manifestSha256": "a8b0c51577010a279d933d14c2a8ab4b268079d44c5c8830c0a93900f1827c67",
+      "layerBytes": 397820829
+    },
+    {
+      "tag": "qwen2.5/7b",
+      "manifestSha256": "845dbda0ea48ed749caafd9e6037047aa19acfcfd82e704d7ca97d631a0b697e",
+      "layerBytes": 4683086845
+    },
+    {
+      "tag": "qwen2.5/latest",
+      "manifestSha256": "845dbda0ea48ed749caafd9e6037047aa19acfcfd82e704d7ca97d631a0b697e",
+      "layerBytes": 4683086845
+    },
+    {
+      "tag": "qwen3/14b",
+      "manifestSha256": "bdbd181c33f2ed1b31c972991882db3cf4d192569092138a7d29e973cd9debe8",
+      "layerBytes": 9276198077
+    },
+    {
+      "tag": "qwen3-vl/2b",
+      "manifestSha256": "0635d9d857d497aeadba3d7d27485746c50554446f9f6ec01ef39788221adbe8",
+      "layerBytes": 1889519136
+    }
+  ],
+  "singleRecommendation": {
+    "model": "qwen2.5:7b",
+    "runtime": "Existing Ollama local service",
+    "architecture": "qwen2",
+    "parameters": "7.6B",
+    "quantization": "Q4_K_M",
+    "contextMetadata": 32768,
+    "cachedModelBytes": 4683073952,
+    "manifestSha256": "845dbda0ea48ed749caafd9e6037047aa19acfcfd82e704d7ca97d631a0b697e",
+    "modelBlobDeclaredSha256": "2bada8a7450677000f678be90653b85d364de7db25eb5ea54136ada5f3933730",
+    "modelBlobActualSha256": "2bada8a7450677000f678be90653b85d364de7db25eb5ea54136ada5f3933730",
+    "modelBlobDigestVerified": true,
+    "license": "Apache-2.0; model author page, official Ollama library and local license layer agree",
+    "licenseLayerSha256": "832dd9e00a68dd83b3c3fb9f5588dad7dcf337a0db50f7d9483f310cd292e92e",
+    "newDownloadBytesRequired": 0,
+    "newInstallationRequired": false,
+    "whyThisOne": "The already cached instruction-tuned text model has official English and structured-JSON support claims, fits the measured machine capacity, and avoids adding a runtime/download solely for this bounded diagnosis. Its success on current quantity/stock commands remains untested.",
+    "proposedExecutionPath": "One local POST to http://127.0.0.1:11434/api/chat with model=qwen2.5:7b, the current/original quantity+stock summary and exact user message, stream=false, and the existing intent JSON schema in format. Feed the actual response to the unchanged shared apply/solve/file checker. This is only a proposed path; no request or bridge was made.",
+    "capacityAssessment": {
+      "status": "FEASIBLE_BY_CAPACITY_ESTIMATE_NOT_BENCHMARK",
+      "basis": "4.68GB cached weights versus 24GiB physical RAM and 53% reported free at inspection; compact state and bounded context can avoid long-context allocation. Disk has approximately 101GB free; no download is needed.",
+      "unmeasured": "Model resident memory, GPU allocation, actual cold/warm latency and effect of concurrent workloads not tested."
+    }
+  },
+  "primarySources": [
+    {
+      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+      "supports": "Official author: instruction-tuned model, English/multilingual support, JSON/structured-output training claims, Apache-2.0. These are author claims, not this-task accuracy measurements."
+    },
+    {
+      "url": "https://ollama.com/library/qwen2.5:7b",
+      "supports": "Official runtime library: exact matching 845dbda0ea48 tag, 4.7GB, Q4_K_M, local API usage and Apache license."
+    },
+    {
+      "url": "https://docs.ollama.com/capabilities/structured-outputs",
+      "supports": "Local JSON-schema constrained outputs through format, schema should also be explained to model; format correctness alone does not establish semantic correctness."
+    },
+    {
+      "url": "https://docs.ollama.com/api/chat",
+      "supports": "Local chat API and response/timing parameters."
+    },
+    {
+      "url": "https://github.com/ollama/ollama",
+      "supports": "Official runtime source repository."
+    }
+  ],
+  "realGaps": [
+    "No actual model call has established valid JSON-schema compatibility with the existing intent schema on installed version.",
+    "No independently frozen unseen quantity/stock command trial has measured semantic correctness.",
+    "No actual cold-load/warm-request or full request-to-checked-file timing has been measured.",
+    "An interpreter bridge is not built; parent must decide and freeze that bounded next action before calls/build.",
+    "Structured JSON cannot itself prevent wrong edits; unchanged source-grounding/state checks and parent semantic verification remain necessary."
+  ],
+  "boundaries": {
+    "modelCalls": 0,
+    "modelDownloads": 0,
+    "softwareInstalled": 0,
+    "unseenInputsRead": false,
+    "parserOrSourceModified": false,
+    "newBridgeBuilt": false,
+    "oldEvidenceModified": false,
+    "onlyWrittenFile": "reports/scrapwise-local-inference-feasibility.json",
+    "materialSavingOrSpeedAdvantageClaimed": false,
+    "publicJudgeOrAwardOutcomeClaimed": false
+  }
+}

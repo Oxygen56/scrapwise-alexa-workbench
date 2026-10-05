@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#164FB5">
+  <title>Scrapwise — cutting workbench</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"><span></span></span>
+      <div><h1>Scrapwise</h1><p>Stock-aware cutting workbench</p></div>
+    </div>
+    <div class="header-actions">
+      <span class="simulation-label"><span aria-hidden="true"></span>Alexa text simulation</span>
+      <button class="reset-button" id="reset-button" type="button" disabled>Reset workspace</button>
+    </div>
+  </header>
+
+  <main class="workbench" id="workbench">
+    <aside class="request-panel" aria-label="Parts, stock and requests">
+      <section class="job-panel" aria-labelledby="job-heading">
+        <div class="section-heading"><h2 id="job-heading">Current job</h2><span class="small-label">Sample workshop</span></div>
+        <div class="job-numbers">
+          <div><span class="number" id="shape-count">—</span><span class="number-label">part shapes</span></div>
+          <div><span class="number" id="copy-count">—</span><span class="number-label" id="copy-label">copies of each</span></div>
+        </div>
+        <div class="stock-heading"><h3>Stock options</h3><span class="table-label">qty / size</span></div>
+        <ul class="stock-list" id="stock-list"><li class="stock-loading">Loading original stock…</li></ul>
+        <div class="constraints"><span>Part gap <strong id="part-gap">—</strong></span><span>Edge margin <strong id="edge-margin">—</strong></span></div>
+      </section>
+
+      <section class="command-panel" aria-labelledby="command-heading">
+        <div class="section-heading"><h2 id="command-heading">Tell the workshop</h2><span class="text-label">Text request</span></div>
+        <form id="command-form">
+          <label for="command">What would you like to cut?</label>
+          <textarea id="command" name="message" rows="4" placeholder="Make one of each part." maxlength="1000" required disabled></textarea>
+          <p class="input-hint" id="input-hint">Use English to change whole-number copies or mark existing stock available or unavailable.</p>
+          <div class="example-list" aria-label="Example requests">
+            <button class="example-button" type="button" data-message="Make one of each part." disabled>One of each</button>
+            <button class="example-button" type="button" data-message="Double every part." disabled>Double every part</button>
+            <button class="example-button" type="button" data-message="Go back to one of each part and mark Scrap 1 unavailable." disabled>One each · no Scrap 1</button>
+          </div>
+          <button class="create-button" id="create-button" type="submit" disabled><span class="button-icon" aria-hidden="true">↗</span><span id="create-label">Create layout</span><span class="busy-spinner" aria-hidden="true"></span></button>
+        </form>
+        <div class="response" id="response" role="status" aria-live="polite">
+          <span class="response-indicator" aria-hidden="true"></span>
+          <p id="response-message">Opening your workshop…</p>
+          <button id="retry-button" class="retry-button" type="button" hidden>Try again</button>
+        </div>
+        <div class="last-request" id="last-request" hidden><span class="small-label">Last request</span><p id="last-request-message"></p></div>
+      </section>
+      <p class="sample-note">Public sample outlines and synthetic example stock. All dimensions are SVG drawing units, not millimetres.</p>
+    </aside>
+
+    <section class="layout-panel" aria-labelledby="layout-heading">
+      <div class="layout-header">
+        <div><p class="small-label">Cutting file</p><h2 id="layout-heading">Layout preview</h2></div>
+        <a class="download-button" id="download-button" aria-disabled="true" tabindex="-1"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 2v10m-4-4 4 4 4-4M3 13v4h14v-4"/></svg>Download SVG</a>
+      </div>
+      <div class="drawing-bar">
+        <span class="drawing-status" id="drawing-status">Awaiting a request</span>
+        <div class="zoom-controls" aria-label="Layout zoom"><button type="button" id="zoom-out" aria-label="Zoom out" disabled>−</button><button type="button" id="zoom-fit" disabled>Fit</button><button type="button" id="zoom-in" aria-label="Zoom in" disabled>+</button></div>
+      </div>
+      <div class="drawing-viewport" id="drawing-viewport" tabindex="0" aria-label="Cutting layout preview">
+        <div class="drawing-empty" id="drawing-empty">
+          <span class="empty-corner" aria-hidden="true"></span>
+          <p class="empty-eyebrow">Ready for the first cut</p>
+          <h3>Your cutting file<br>starts here.</h3>
+          <p>Write a request, then choose <strong>Create layout</strong>.<br>Your parts and stock will appear on this canvas.</p>
+        </div>
+        <div class="drawing-image-wrap" id="drawing-image-wrap" hidden><img id="layout-image" alt="Actual cutting layout for your current job"></div>
+        <span class="canvas-unit" aria-hidden="true">SVG drawing units</span>
+      </div>
+      <div class="result-strip" id="result-strip" hidden>
+        <div><span class="result-label">Pieces placed</span><strong id="result-pieces">—</strong></div>
+        <div><span class="result-label">Sheets used</span><strong id="result-sheets">—</strong></div>
+        <div><span class="result-label">Purchased stock area</span><strong id="result-purchased">—</strong></div>
+        <div class="file-check"><span class="check-icon" aria-hidden="true">✓</span><span><strong id="file-check-title">File checked</strong><span id="file-check-detail">All requested parts included</span></span></div>
+      </div>
+      <p class="layout-note" id="layout-note">Each request creates a new layout from the current job. Unchanged dimensions stay as they are.</p>
+    </section>
+  </main>
+  <footer class="app-footer"><span>Quantity &amp; stock changes → cutting layout → SVG file</span><span>A simulated workshop experience</span></footer>
+</body>
+</html>

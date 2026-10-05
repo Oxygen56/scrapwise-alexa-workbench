@@ -1,0 +1,24 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "action": {"type": "string", "enum": ["solve", "clarify"]},
+    "operations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "kind": {"type": "string", "enum": ["set_quantity", "multiply_quantity", "restore_original_quantities"]},
+          "scope": {"type": "string", "enum": ["parts", "stock", "all"]},
+          "ids": {"type": "array", "items": {"type": "string"}},
+          "amount": {"type": ["integer", "null"]},
+          "source_quote": {"type": "string"}
+        },
+        "required": ["kind", "scope", "ids", "amount", "source_quote"]
+      }
+    },
+    "question": {"type": "string"}
+  },
+  "required": ["action", "operations", "question"]
+}

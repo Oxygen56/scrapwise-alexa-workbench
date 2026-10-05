@@ -1,0 +1,55 @@
+{
+  "schema": "scrapwise.first-proof-contract.v1",
+  "frozenAt": "2026-10-03T10:48:32.949483+00:00",
+  "selectedFullEntry": false,
+  "trackIfAdopted": "Alexa+ custom AI/text simulation, subject to actual simulation and complete official entry evidence",
+  "purpose": "One concrete, legally shaped vector cutting layout from public original parts and clearly disclosed finite test stock",
+  "inputSourceSha256": "0d67c64c91765eccf197761737b610a5fb5bccbf4976930b94540a540f3a636c",
+  "caseRecords": [
+    {
+      "id": "base",
+      "artifact": "reports/scrapwise-first-proof/input/base.json",
+      "sha256": "cb02e035395388fb6c6088fa65f1798c4e417f81d87318328025b7b339844138",
+      "utterance": "Please lay out all the parts, use my four existing quarter sheets before buying a new full sheet, leave two units between parts and one unit around the edge."
+    },
+    {
+      "id": "double",
+      "artifact": "reports/scrapwise-first-proof/input/double.json",
+      "sha256": "007779cf94f75fc2430b6e788686bb49d384efc149b43721742d0333c20af9e9",
+      "utterance": "Make two copies of every part. The same four quarter sheets are available; buy at most two original full sheets only if needed."
+    },
+    {
+      "id": "one_scrap_unavailable",
+      "artifact": "reports/scrapwise-first-proof/input/one_scrap_unavailable.json",
+      "sha256": "20dc42ef49290a652cbd55df7124855e41ddf7afb67262d728896ce51cffdebf",
+      "utterance": "Return to one copy per part. Scrap 1 is unavailable. Keep the other three existing quarter sheets and the same purchase option."
+    }
+  ],
+  "geometryRules": {
+    "units": "original SVG coordinate units; no claimed millimetre or physical production size",
+    "spacing": 2.0,
+    "margin": 1.0,
+    "mirrorAllowed": false,
+    "objectivePriority": [
+      "minimize purchased sheet area",
+      "then minimize total used sheet area"
+    ],
+    "negativeConditions": [
+      "Do not omit/duplicate/shrink/deform original parts",
+      "Obey each part rotation, spacing and margin",
+      "Do not exceed each stock quantity"
+    ]
+  },
+  "comparison": "Fully equipped ordinary agent gets the same original parts/identities, complete stock, constraints, allowed general/native tools and correction opportunities. It must deliver actual files. Candidate implementation and later results are excluded from its preparation, not public/native tools. Native prior54s result is not a comparable score.",
+  "materialClaim": "Candidate actual purchased area cannot be described as optimal or better unless both complete final files are independently checked under the same job. No missing native feature inferred from documentation silence.",
+  "timingClaim": "Actual whole machine production time may be measured separately from script-only solve time and preparation; never equate machine tool calls or time to human work saved. Fairness/uncertainty must accompany any comparison.",
+  "falsifier": "If a strong complete control reproduces equally legal outcomes, with no independently reproducible result or production-process reduction, stop the proposed signature claim.",
+  "bounds": [
+    "Public author demonstration, not a verified customer job",
+    "Test inventory disclosed, not real household scrap stock",
+    "No physical cutting, tactile usability or human benefit claimed",
+    "No interviews, contact, paid resources, public repository/video or external submission",
+    "No full application polish before first proof results"
+  ],
+  "nextRealResult": "Candidate and ordinary-control actual SVG/placement files, independent same-rule geometry and purchased-area checks"
+}

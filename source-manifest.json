@@ -1,0 +1,267 @@
+{
+  "schema": "scrapwise.portable-source-manifest.v1",
+  "frozenAt": "2026-10-05T09:07:24.546904+00:00",
+  "status": "AUTHORIZED_MIT_RELEASE_RUNTIME_CODE_AND_DATA_IDENTICAL_NEW_ARCHIVE_REPLAY_PENDING",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "9f7115a97c7c277113cd35e9b71d0c514c71988c66c4447e3076c9f43512ee12",
+      "bytes": 54
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "04c819c4470d6ef6a332fa014006067b311788381d2097fee505dbfbbcecbd0c",
+      "bytes": 1075
+    },
+    {
+      "path": "README.md",
+      "sha256": "1bc41792f4d96965039ec06228ae850c1975cf162ad7fee7026f1ec216d03bce",
+      "bytes": 4315
+    },
+    {
+      "path": "THIRD_PARTY/Qwen2.5-7B-Instruct/LICENSE",
+      "sha256": "832dd9e00a68dd83b3c3fb9f5588dad7dcf337a0db50f7d9483f310cd292e92e",
+      "bytes": 11343
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/LICENSE.txt",
+      "sha256": "649a589ab31076e79e9ce62ba24eae9959598124176640dbc95f87bd10f34fcf",
+      "bytes": 46826
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+      "sha256": "fbc539f47d0cf83bc61378080fb873d5c14630126cacbfe754035c3926daa5ec",
+      "bytes": 1018
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+      "sha256": "3f2c1ffa76383a55ae0aac01c9737cd70050dff63e1f026694fbe9d662573c98",
+      "bytes": 690
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/numpy/_core/src/highway/LICENSE",
+      "sha256": "e340270d4f64384569a91d546acb5b094d69ce47f0c015db77abb74dc6f815af",
+      "bytes": 20785
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+      "sha256": "f7b14309e5f54e5022b26448eefd419988ada2aec01d3c1162d84a0ea8f21f2c",
+      "bytes": 1414
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+      "sha256": "211e7d737d6179a08f791ebb0a99897ce7cd2457410c542876d125576edfe910",
+      "bytes": 1514
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE",
+      "sha256": "c17011467b4fe6e20fbfbeda4df09e58c2bca5480a063e55735a4000a379aad9",
+      "bytes": 1543
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md",
+      "sha256": "a85ca13fdf90160b64a0698215868c13b74d835ad0a4e2ba44713b8c5058a056",
+      "bytes": 1498
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+      "sha256": "a14cc25e10d40a3aa705b7de2fb764a6535d8ee9b2db4e1724900585457dfd55",
+      "bytes": 2266
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/numpy/ma/LICENSE",
+      "sha256": "05f3b88351988ecfad10abe92c0c50e5875c6452d5009a0084cc291551ffcca6",
+      "bytes": 1593
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/numpy/random/LICENSE.md",
+      "sha256": "103166b62b80443afb9eb3488e052ea06be0cff566b908f199e561fde49af19f",
+      "bytes": 3511
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
+      "sha256": "469778be8f33d54e1bcaab28c281cc472916d2d273f835e55bc487d30503face",
+      "bytes": 2745
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
+      "sha256": "0e111337b25494a773106695f0e799f642b8567aaacca4f116a74a8177179156",
+      "bytes": 2926
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
+      "sha256": "e7d4f4fb20358f314210a892ae17351e04993813646f697ec387385ca2a36918",
+      "bytes": 1154
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
+      "sha256": "6f5828a57223d4cc7f8ea505a2623e7b978b242752c1515e355f46ba2cec1800",
+      "bytes": 1509
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
+      "sha256": "9d4098846018319cd68e228ee6220361787f73bccbf00237a85e4fc9621b998f",
+      "bytes": 1226
+    },
+    {
+      "path": "THIRD_PARTY/numpy-2.5.3.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
+      "sha256": "268b0ca06759d31ea3ca68dd35f20e877916e927b1c2a835e4592a3c4354b1f9",
+      "bytes": 332
+    },
+    {
+      "path": "THIRD_PARTY/pyclipper-1.4.0.dist-info/licenses/LICENSE",
+      "sha256": "32ee7398e3123736fd14e9f08287edc2d97ace102ab54d8dc4edc8d31c651fa8",
+      "bytes": 1110
+    },
+    {
+      "path": "THIRD_PARTY/shapely-2.1.2.dist-info/licenses/LICENSE.txt",
+      "sha256": "4a207eac9bf257ed286e1c6f0fce253d1abfdb134fc61ec855e37f5692a3f754",
+      "bytes": 1583
+    },
+    {
+      "path": "THIRD_PARTY/shapely-2.1.2.dist-info/licenses/LICENSE_GEOS",
+      "sha256": "138b2c2f9450073d7c116abe397ca4382625671c752b7a9a5f320b33fc3f3f2a",
+      "bytes": 26786
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "ab3952c2e13de0a2c23b9f08e0487de48dc17c13fff6712c1f638e918d02aca4",
+      "bytes": 3865
+    },
+    {
+      "path": "app/scrapwise_flow/edits.py",
+      "sha256": "e088e91cb52beb9b0418b9b9882342c3b068a37ed77b3f268ba8b0b848671e29",
+      "bytes": 4165
+    },
+    {
+      "path": "app/scrapwise_flow/intent.schema.json",
+      "sha256": "0513ec578232886f5015665eff3c4cae6df9090a52c71ee45930ed8be3f16a38",
+      "bytes": 827
+    },
+    {
+      "path": "app/scrapwise_flow/shared_solver.py",
+      "sha256": "0e1478c711e38f476cb9655d8d75d883fc080053c383bc9601ab7ddab333b3bc",
+      "bytes": 6884
+    },
+    {
+      "path": "app/scrapwise_local_flow/flow.py",
+      "sha256": "77acbe8d0db1777df5a7e3494bc0792cbac79bca728d6617996c16a11f249c1a",
+      "bytes": 20598
+    },
+    {
+      "path": "app/scrapwise_web/server.py",
+      "sha256": "73c90d485ff13a979768d6f278085a03929abbda6ec112b78bd6a609fd800afb",
+      "bytes": 14244
+    },
+    {
+      "path": "app/scrapwise_web/static/app.js",
+      "sha256": "8bc524860743021e9077c4f198d8dab65b50d784c7fc73aeaaf3405833686999",
+      "bytes": 10975
+    },
+    {
+      "path": "app/scrapwise_web/static/index.html",
+      "sha256": "ce708801a12a95fd4bf5b1c4cbba1924918f4692b4c9b8d6020af4a551138b60",
+      "bytes": 6305
+    },
+    {
+      "path": "app/scrapwise_web/static/styles.css",
+      "sha256": "9e01cf9f503995418e17f40cb2afe748ed231215447a09352f766f03b5562789",
+      "bytes": 14552
+    },
+    {
+      "path": "data/cutting-author-demo.svg",
+      "sha256": "0d67c64c91765eccf197761737b610a5fb5bccbf4976930b94540a540f3a636c",
+      "bytes": 23912
+    },
+    {
+      "path": "intelligence/research/cutting-output-20261003/ordinary-control/nest_control.py",
+      "sha256": "3587e1b984bd269903df0c1e79ee3126eba29cfc555a23096882d70f66afbea5",
+      "bytes": 11187
+    },
+    {
+      "path": "intelligence/research/cutting-output-20261003/root-sources/LICENSE.txt",
+      "sha256": "63249e67e62c3c4142252688c170ab27fa401f55a96f12b54cd6187ba2f699af",
+      "bytes": 1075
+    },
+    {
+      "path": "intelligence/research/cutting-output-20261003/root-sources/index.html",
+      "sha256": "0d1c1f4adfd4845a7b76bebcd44684e9a8f97f7163c32f20f06507c543f7e48d",
+      "bytes": 45032
+    },
+    {
+      "path": "intelligence/research/cutting-output-20261003/root-sources/receipts.json",
+      "sha256": "4fbc8f76c9a034fd6f8624ad9ee7a191f48110dc2bd98576a16060cfdaac6795",
+      "bytes": 1090
+    },
+    {
+      "path": "reports/scrapwise-first-proof/contract.json",
+      "sha256": "681813f7d2e65cd73b3c3ca67ef850caf0882a48cb35715effcee4d3a4fed025",
+      "bytes": 3609
+    },
+    {
+      "path": "reports/scrapwise-first-proof/input/base.json",
+      "sha256": "cb02e035395388fb6c6088fa65f1798c4e417f81d87318328025b7b339844138",
+      "bytes": 90139
+    },
+    {
+      "path": "reports/scrapwise-first-proof/input/double.json",
+      "sha256": "007779cf94f75fc2430b6e788686bb49d384efc149b43721742d0333c20af9e9",
+      "bytes": 90111
+    },
+    {
+      "path": "reports/scrapwise-first-proof/input/one_scrap_unavailable.json",
+      "sha256": "20dc42ef49290a652cbd55df7124855e41ddf7afb67262d728896ce51cffdebf",
+      "bytes": 90126
+    },
+    {
+      "path": "reports/scrapwise-first-proof/verify_output.py",
+      "sha256": "f4ef0fab03027ebdf554ea6f3f174c0ba36992b3144925b7f005bd52bb165fd6",
+      "bytes": 7947
+    },
+    {
+      "path": "reports/scrapwise-local-inference-feasibility.json",
+      "sha256": "0bc87ad3f4e42fd1258be007afa1b9788924d82796a536ac1bd378306be7d602",
+      "bytes": 6877
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "5769821fbc0a5a295c2db83d6f63fb471dedf21f2cbff1b0d9811c0f908a4ce9",
+      "bytes": 174
+    },
+    {
+      "path": "run.py",
+      "sha256": "c89cc9c54b54913711f8b180651fc9255a66fa80e6cb99170e34275552ef41ec",
+      "bytes": 256
+    },
+    {
+      "path": "setup.py",
+      "sha256": "2c7a51b19c7eb2da2d3bfa2e5d2be7ecfa80355f7733ad443b4e0c941ef6c386",
+      "bytes": 846
+    }
+  ],
+  "excludedGeneratedPaths": [
+    ".venv",
+    "__pycache__",
+    ".pytest_cache",
+    ".mypy_cache",
+    ".ruff_cache",
+    "reports/scrapwise-web-runs",
+    "*.pyc",
+    "*.pyo"
+  ],
+  "manifestItselfExcluded": true,
+  "codeLicenseApproved": true,
+  "browserReplayVerified": false,
+  "setupExecuted": true,
+  "setupVerification": "Root-installed3pinnedPythonlibraries in a new package-local venv on Mac M4/Python3.14; existing Ollama/model reused. Not clean-machine, new-model-download or cross-platform verification.",
+  "modelOrSolverCalledByDocumentAuthor": false,
+  "purpose": "Authorized MIT source release preserving byte-identical runtime code/data and all third-party license originals; not final contest submission or award evidence.",
+  "priorApprovedSnapshotSha256": "05c4c3e9e86bb4be7b6b48b883fed46ed0efacafd7620216688323a8b42736f7",
+  "priorApprovedPackageBrowserReplay": {
+    "artifact": "reports/scrapwise-package-proof/result.json",
+    "sha256": "c5f4f1bd27901d13c113855473974f7f85c4f1cba0da7e877f5f17127bc7bdb3",
+    "snapshotSha256": "05c4c3e9e86bb4be7b6b48b883fed46ed0efacafd7620216688323a8b42736f7",
+    "status": "COMPLETE"
+  },
+  "newReleaseArchiveReplay": "PENDING: previous runtime evidence is identified separately; no new-archive run has yet occurred."
+}
